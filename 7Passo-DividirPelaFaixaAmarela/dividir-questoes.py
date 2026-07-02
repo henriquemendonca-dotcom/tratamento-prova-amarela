@@ -126,12 +126,12 @@ if __name__ == "__main__":
     # ESCOLHA APENAS UMA IMAGEM
     # ============================
 
-    caminho_imagem = "colunas_concatenadas_verticalmente.png"
-    # caminho_imagem = "./inteiras/pagina_enem_15.png"
+    #caminho_imagem = "colunas_concatenadas_verticalmente.png"
+    caminho_imagem = "./inteiras/pagina_enem_25.png"
     # caminho_imagem = "./inteiras/pagina_enem_28.png"
 
-    pasta_saida = "questoes_colunas"
-    # pasta_saida = "pagina_15"
+    #pasta_saida = "questoes_colunas"
+    pasta_saida = "questao-159-160"
     # pasta_saida = "pagina_28"
 
     # Cor da faixa amarela (#FFFCBF)
